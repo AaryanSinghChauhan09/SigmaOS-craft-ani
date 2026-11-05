@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos_craft_ani"
+version = "0.1.0"
+edition = "2021"
+description = "Animation runtime engine for procedural UI transitions and keyframe interpolation"
+
+[lib]
+name = "sigmaos_craft_ani"
+path = "src/lib.rs"
