@@ -3,7 +3,7 @@ name = "SigmaOS-craft-ani"
 tier = 3
 stability = "stable"
 language = "rust"
-description = "Animation runtime engine for procedural UI transitions and keyframe interpolation"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
