@@ -1,3 +1,6 @@
+/// Animation and graphics module.
+pub mod sigmaani;
+
 #[derive(Debug, Clone, Copy, PartialEq)]
 pub enum Easing {
     Linear,
